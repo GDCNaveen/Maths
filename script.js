@@ -95,8 +95,8 @@ function videoPage() {
   const part = urlParams.get("part");
 
   const videos = {
-    1: 'https://player.vimeo.com/video/1087925125?h=6612f2ca4c&title=0&byline=0&portrait=0&badge=0&autopause=0&player_id=0&app_id=58479',
-    2: 'https://player.vimeo.com/video/1087925125?h=6612f2ca4c&title=0&byline=0&portrait=0&badge=0&autopause=0&player_id=0&app_id=58479',
+    1: 'https://player.vimeo.com/video/1086712834?title=0&byline=0&portrait=0&badge=0&autopause=0&player_id=0&app_id=58479',
+    2: 'https://player.vimeo.com/video/1086712834?title=0&byline=0&portrait=0&badge=0&autopause=0&player_id=0&app_id=58479',
     3: 'https://player.vimeo.com/video/1087925125?h=6612f2ca4c&title=0&byline=0&portrait=0&badge=0&autopause=0&player_id=0&app_id=58479',
   };
 
