@@ -96,7 +96,7 @@ function videoPage() {
 
   const videos = {
     1: 'https://player.vimeo.com/video/1086712834?h=01aaa52a53&title=0&byline=0&portrait=0&badge=0&autopause=0&player_id=0&app_id=58479',
-    2: 'https://player.vimeo.com/video/1086712834?h=01aaa52a53&title=0&byline=0&portrait=0&badge=0&autopause=0&player_id=0&app_id=58479',
+    2: 'https://player.vimeo.com/video/1087925155?h=0bd6899c9d&title=0&byline=0&portrait=0&badge=0&autopause=0&player_id=0&app_id=58479',
     3: 'https://player.vimeo.com/video/1086712834?h=01aaa52a53&title=0&byline=0&portrait=0&badge=0&autopause=0&player_id=0&app_id=58479'
   };
 
